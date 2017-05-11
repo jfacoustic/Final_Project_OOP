@@ -1,0 +1,7 @@
+To Trinidad!
+
+Aye, there be a hurricane approaching.  Do you:
+
+1) Wait here
+2) Keep going in current direction
+3) Go Back?

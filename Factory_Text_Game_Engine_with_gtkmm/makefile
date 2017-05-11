@@ -1,0 +1,2 @@
+all:
+	g++ main.cpp Controller.cpp GTKController.cpp TerminalController.cpp Game.cpp GTKGame.cpp TerminalGame.cpp Reader.cpp GameFactory.cpp TerminalGameFactory.cpp GTKGameFactory.cpp -o Text_Game_Engine_with_gtkmm `pkg-config gtkmm-3.0 --cflags --libs` --std=c++11

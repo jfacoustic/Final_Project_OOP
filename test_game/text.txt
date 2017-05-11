@@ -1,0 +1,6 @@
+The year was 1650.  Pirates ruled the seas and you happened to be one of them.
+
+You need to purchase a seaworthy ship.  Do you purchase:
+1) The Mighty Galleon (Heavily Armored, Low Cargo Capacity)
+2) Her Majesty's Crown (Medium Armor, Medium Cargo)
+3) The Fancy Freighter (Low Armor, High Cargo)

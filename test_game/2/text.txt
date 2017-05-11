@@ -1,0 +1,7 @@
+Ah you purchased Her Majesty's Crown.  This means
+you must not be a pirate, but a Naval Captain!  
+
+Would you like to:
+1) Go to Europe
+2) Patrol the Gulf Coast
+3) Go to the Pub

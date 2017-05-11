@@ -1,0 +1,8 @@
+You successfully built a dingy, however, as you passed
+breaking waves, your boat sprung a leak.  You drowned
+while trying to swim back to shore.
+
+GAME OVER!
+
+20 pts.
+
